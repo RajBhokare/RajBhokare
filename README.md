@@ -17,16 +17,38 @@
 
 ## 👋 About Me
 
-I’m a **Frontend Developer and Engineering student** who enjoys building clean, responsive, and user-focused web interfaces.  
-My primary focus is on writing readable code, designing intuitive layouts, and improving user experience step by step.
+I’m a **Frontend Developer and Engineering student** who enjoys building clean, responsive, and user-friendly web interfaces.  
+I focus on writing **simple, readable code** and improving my skills through **real projects and team collaboration**.
 
-I believe in **learning by doing**, which is why most of my growth comes from hands-on projects rather than theory alone.
+I believe consistent practice and learning from mistakes matter more than shortcuts.
 
-**What I’m currently doing:**
-- 🔧 Working on **frontend projects & club websites**
-- 📘 Learning from **Udemy – Full-Stack Web Development Bootcamp**
-- 🎯 Strengthening fundamentals in **HTML, CSS, JavaScript**
-- 🧩 Exploring UI/UX principles and component-based design
+- 🔧 Currently working on frontend & club website projects  
+- 📘 Learning from *The Complete Full-Stack Web Development Bootcamp (Udemy)*  
+- 🎯 Strengthening fundamentals in HTML, CSS, and JavaScript  
+- 🧩 Exploring UI/UX and component-based layouts  
+
+---
+
+## 📌 Developer Snapshot
+
+- 🎯 Primary Focus: Frontend Development  
+- 🧱 Code Style: Clean, readable, beginner-friendly  
+- 🛠️ Stack in Use: HTML, CSS, JavaScript, Bootstrap  
+- 📚 Learning Path: Full-Stack Web Development  
+- 🤝 Collaboration: Open to team & club projects  
+
+> I prefer building small features properly rather than rushing large projects.
+
+---
+
+## ⏳ Current Activity
+
+- 🧠 Learning frontend fundamentals in depth  
+- 🏗️ Building responsive UI sections and layouts  
+- 🔁 Improving existing projects instead of abandoning them  
+- 📄 Writing cleaner documentation and README files  
+
+**Daily goal:** Write slightly better code than yesterday.
 
 ---
 
@@ -39,12 +61,15 @@ I believe in **learning by doing**, which is why most of my growth comes from ha
 - Bootstrap  
 - Tailwind CSS (basic usage)
 
-### Programming & Tools
+### Programming
 - Java  
 - Python  
-- C / C++  
+- C / C++
+
+### Tools & Workflow
 - Git & GitHub  
 - Linux (basic)  
+- VS Code  
 - Figma (UI planning)
 
 ### Creative Tools
@@ -53,14 +78,34 @@ I believe in **learning by doing**, which is why most of my growth comes from ha
 
 ---
 
+## 📈 Skill Progress
+
+- HTML & CSS   ▓▓▓▓▓▓▓▓░░  (Strong)  
+- JavaScript  ▓▓▓▓▓▓░░░░  (Growing)  
+- UI Design   ▓▓▓▓▓▓░░░░  (Improving)  
+- Git/GitHub  ▓▓▓▓▓░░░░░  (Learning)  
+
+---
+
 ## 🚀 Projects & Work
 
-- 💻 **Frontend Websites** – Responsive layouts and clean UI
-- 🏫 **Club Website (BinaryBrains)** – Team collaboration project
-- 📊 **Academic & IoT Projects** – UI + documentation
-- 🎨 **UI Experiments** – Design-first small components
+- 💻 **Frontend Websites** – Responsive layouts with clean UI  
+- 🏫 **BinaryBrains Club Website** – Team collaboration project  
+- 📊 **Academic & IoT Projects** – UI + documentation  
+- 🎨 **UI Experiments** – Small design-first components  
 
-> 📌 Most projects are built with the goal of **clarity, usability, and maintainability**.
+> Projects are built with a focus on clarity, usability, and maintainability.
+
+---
+
+## 🧠 How I Approach Coding
+
+- Start with a simple solution  
+- Focus on readability over clever tricks  
+- Improve code iteratively  
+- Learn by debugging and refactoring  
+
+I value **consistency over intensity**.
 
 ---
 
@@ -85,7 +130,7 @@ I believe in **learning by doing**, which is why most of my growth comes from ha
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajBhokare&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -98,7 +143,7 @@ I believe in **learning by doing**, which is why most of my growth comes from ha
 
 ---
 
-## 🏆 Achievements & Activity
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RajBhokare&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -114,12 +159,10 @@ I believe in **learning by doing**, which is why most of my growth comes from ha
 
 ---
 
-## 💬 Personal Note
+## 💬 Quote I Believe In
 
 > *“First, solve the problem. Then, write the code.”*  
 > — **John Johnson**
-
-I’m always open to learning, collaborating, and improving — one project at a time.
 
 ---
 
