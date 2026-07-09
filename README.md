@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Bhokare-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajbhokare1)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhokareraj281@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)]([https://indiakart-beta.vercel.app](https://raj-portfolio-it.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://raj-portfolio-it.netlify.app/)
 
 </div>
 
