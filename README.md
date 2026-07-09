@@ -5,17 +5,24 @@
 
 </div>
 
----
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;Node.js+%7C+Express+%7C+MySQL+%7C+JavaScript;Solving+DSA+problems+daily+on+LeetCode;Open+to+internships+%26+opportunities)](https://git.io/typing-svg)
 
 </div>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Bhokare-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajbhokare1)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhokareraj281@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://indiakart-beta.vercel.app)
+
+</div>
+
 ---
 
-## ◈ About
+## ◈ About Me
 
 ```ts
 const raj = {
@@ -53,62 +60,72 @@ const raj = {
 **Languages**
 
 ![C](https://img.shields.io/badge/C-00599c?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 
-**Tools**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46e3b7?style=flat-square&logo=render&logoColor=white)
 
 </div>
 
 ---
 
-## ◈ Projects
+## ◈ Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [Quizzer](https://quizzer-7t6k.onrender.com) — Video Summarizer & Quiz Generator
-**Role:** Frontend Developer &nbsp;|&nbsp; **Type:** Team Project
+### 🎯 [Quizzer](https://quizzer-7t6k.onrender.com)
+**Video Summarizer & Quiz Generator**
 
-Responsive quiz & transcript interfaces powered by AssemblyAI for video transcript extraction and AI-generated summaries.
+Responsive quiz and transcript interfaces powered by AssemblyAI for video transcript extraction and AI-generated summaries.
+
+**Role:** Frontend Developer &nbsp;·&nbsp; **Type:** Team Project
 
 `HTML` `CSS` `JavaScript` `EJS` `Bootstrap`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [EduQuest](https://sih-project-roan-nine.vercel.app) — Digital Learning Platform
-**Role:** Frontend & Backend Developer &nbsp;|&nbsp; **Type:** Team Project
+### 📚 [EduQuest](https://sih-project-roan-nine.vercel.app)
+**Digital Learning Platform**
 
-Educational platform for rural students with responsive UI, Node.js backend, and MySQL database for user & quiz management.
+Educational platform for rural students with a responsive UI, Node.js backend, and MySQL database for user and quiz management.
+
+**Role:** Frontend & Backend Developer &nbsp;·&nbsp; **Type:** Team Project
 
 `Node.js` `MySQL` `EJS` `JavaScript`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [IndiaKart](https://indiakart-beta.vercel.app) — E-Commerce Platform *(Ongoing)*
-**Role:** Full Stack Developer &nbsp;|&nbsp; **Type:** Solo Project
+### 🛒 [IndiaKart](https://indiakart-beta.vercel.app)
+**E-Commerce Platform** *(Ongoing)*
 
-Full-featured e-commerce app with product catalog, cart, user auth, and admin dashboard for managing products, users & orders.
+Full-featured e-commerce app with a product catalog, cart, user authentication, and an admin dashboard for managing products, users, and orders.
+
+**Role:** Full Stack Developer &nbsp;·&nbsp; **Type:** Solo Project
 
 `Node.js` `Express.js` `MySQL` `Tailwind CSS`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [Binary Brains Club](https://github.com/RajBhokare) — Club Website
-**Role:** Web Developer &nbsp;|&nbsp; **Type:** Club Project
+### 🌐 [Binary Brains Club](https://github.com/RajBhokare)
+**Club Website**
 
-Responsive club website built with the Binary Brains team at DIT Pune, using Git for collaborative version control.
+Responsive club website built collaboratively with the Binary Brains team at DIT Pune, using Git for version control.
+
+**Role:** Web Developer &nbsp;·&nbsp; **Type:** Club Project
 
 `HTML` `CSS` `JavaScript` `Git`
 
@@ -123,7 +140,6 @@ Responsive club website built with the Binary Brains team at DIT Pune, using Git
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RajBhokare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00d4ff&icon_color=7c3aed&text_color=a0c4d8&border_radius=4" height="170"/>
-&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajBhokare&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00d4ff&text_color=a0c4d8&border_radius=4" height="170"/>
 
 <br/><br/>
@@ -149,24 +165,23 @@ Responsive club website built with the Binary Brains team at DIT Pune, using Git
 
 ## ◈ Experience
 
-**Web Developer** — Binary Brains Club, DIT Pune *(Sep 2025 – Present)*
+**Web Developer** — Binary Brains Club, DIT Pune &nbsp;*(Sep 2025 – Present)*
 - Developing responsive web pages using HTML, CSS, and JavaScript
 - Collaborating on coding projects with Git version control
 - Participating in hackathons and team coding initiatives
 
 ---
 
-## ◈ Connect
+## ◈ Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Bhokare-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajbhokare1)
-[![Gmail](https://img.shields.io/badge/Gmail-bhokareraj281@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhokareraj281@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-bhokareraj281%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhokareraj281@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
 </div>
 
----
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=RajBhokare&label=Profile+Views&color=00d4ff&style=flat-square"/>
