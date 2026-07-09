@@ -144,7 +144,7 @@ Responsive club website built collaboratively with the Binary Brains team at DIT
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajBhokare&theme=tokyonight&hide_border=true&background=050a0f&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a0c4d8&dates=4a6475"/>
+<img src="https://streak-stats.demolab.com/?user=RajBhokare&theme=tokyonight&hide_border=true&background=050a0f&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a0c4d8&dates=4a6475"/>
 
 </div>
 
