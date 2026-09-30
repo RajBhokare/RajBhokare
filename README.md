@@ -250,9 +250,9 @@ An AI-focused hackathon project developed during **DevClash**, exploring web-bas
 - 🛒 **Flipkart GRiD** — Flagship Engineering & Tech Challenge
 
 ### 🧩 Problem Solving & Academics
-- 🟠 **LeetCode:** 114 Problems Solved
+- 🟠 **LeetCode:** 129 Problems Solved
 - 🟢 **GeeksforGeeks:** 90 Problems Solved
-- ⚡ **Total:** 204+ algorithmic challenges completed
+- ⚡ **Total:** 229+ algorithmic challenges completed
 - 🎓 **Academic Performance:** Current CGPA of **8.71** in B.E. Information Technology
 
 ---
