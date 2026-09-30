@@ -95,9 +95,9 @@ I am a passionate **Full Stack Developer** and **Information Technology student 
 
 | Platform | Profile Handle | Problems Solved | Status |
 | :--- | :--- | :---: | :---: |
-| 🟠 **LeetCode** | [`RajBhokare`](https://leetcode.com/u/RajBhokare/) | **114** | Active |
+| 🟠 **LeetCode** | [`RajBhokare`](https://leetcode.com/u/RajBhokare/) | **129** | Active |
 | 🟢 **GeeksforGeeks** | [`rajbhokare1`](https://www.geeksforgeeks.org/user/rajbhokare1/) | **90** | Active |
-| ⚡ **Total Solved** | *Combined Platforms* | **204+** | Continuous Practice |
+| ⚡ **Total Solved** | *Combined Platforms* | **229+** | Continuous Practice |
 
 ---
 
